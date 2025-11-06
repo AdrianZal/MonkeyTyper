@@ -1,0 +1,1 @@
+assets\CoffeeSpark.ttf 100 0 5 subject 309.75 0 bother 332.75 100 warn 390.75 200 course 330.75 300 biological 199.75 400 jump 406.75 500 
